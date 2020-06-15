@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-AreaTextoMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.AreaTextoMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BotonesMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Botones_Imagenes.BotonesMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BoxMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.BoxMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CuadroCombinadoMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Combinado.CuadroCombinadoMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DemoTeclasMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.DemoTeclasMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DetallesRatonMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.DetallesRatonMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EntradaSalida<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.EntradaSalida",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ListaMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.ListaMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MarcoBotonMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.MarcoBotonMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PanelBorderLayoutMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Paneles.PanelBorderLayoutMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PanelDibujoMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Paneles.PanelDibujoMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PanelFlowLayoutMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Paneles.PanelFlowLayoutMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PanelGridLayoutMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Paneles.PanelGridLayoutMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PanelMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Paneles.PanelMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-RastreadorRatonMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.RastreadorRatonMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TextoMain<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.TextoMain",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Text_Ima_Main<Programacion_Avanzada_ECRM29_6e8c3838>",
+            "request": "launch",
+            "mainClass": "UNIDAD_11.Texto_Imagen.Text_Ima_Main",
+            "projectName": "Programacion_Avanzada_ECRM29_6e8c3838"
+        }
+    ]
+}
